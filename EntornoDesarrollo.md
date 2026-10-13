@@ -512,7 +512,7 @@ sudo systemctl restart php-fpm
 | --- | :---- | :----- |
 | php-mysql | Módulo antiguo (mezclaba mysql y mysqli) | Obsoleto desde PHP/
 | php-mysqli | Extensión mejorada orientada a MySQL/MariaDB | Activa y recomendada
-| php-pdo-mysql | Permite conexión vía PDO(interfaz orientada a objetos y más segunra) | Activa y recomendada
+| php-pdo-mysql | Permite conexión vía PDO(interfaz orientada a objetos y más segura) | Activa y recomendada
 
 Mostrar que extensión se han instalado
 
